@@ -1,0 +1,23 @@
+#orientasi{
+    padding-top: 7rem;
+}
+#limas{
+    background-color: #2F495A;
+}
+#contact{
+    background-color: #2F495A;
+    padding-bottom: 3rem;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+body{
+    background-color: tomato;
+}
+img{
+    margin-right: 15px;
+}
